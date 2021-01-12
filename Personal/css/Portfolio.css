@@ -10,9 +10,6 @@
 		overflow-x: hidden;
 		}
 
-		/*html, body{
-		overflow-x: hidden;
-		}*/
 
 		/*navbar*/
 		.navbar-light .navbar-brand {
@@ -69,19 +66,6 @@
 		font-family: 'Redressed', cursive;
 		font-size: 3em;
 		}
-
-		/*Star and Circle*/
-		/*.rounded-circle {
-		height: 5em;
-		width: 5em;
-		background-color: #fff;
-		border-radius: 50%;
-		display: inline-block;
-		float: right;
-		margin-right: 5em;
-		margin-top: 2em;
-		box-shadow: 0 0 5.5em 20px #fff
-		}*/
 
 		.star1 {
 		height: 0.25em;
@@ -164,7 +148,6 @@
 		/*Gradient content*/
 
 		#back {
-		/*background-image: linear-gradient(to bottom, #000000, #070002, #0b0007, #0d000e, #0c0014, #0e011a, #0d0320, #090526, #09092e, #060d37, #030f40, #001149);*/
 		background-color: #004953;
 		height: 38em;
 		margin-top: 5.7em;
@@ -210,11 +193,6 @@
 
 		/*About Me */
 
-		/*.container{
-		width: 20em;
-		height: 15em;
-		}*/
-
 		.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
 		padding-bottom: 5em;
 		}
@@ -225,15 +203,6 @@
 		height: 20em;
 		}
 
-		/*.img-thumbnail {
-		padding: 0.5em;
-		background-color: #fff;
-		border: 2px solid black;
-		margin-top: 5em;
-		border-radius: 0.5rem;
-		box-shadow: 0em 0em  #09092e;
-		}
-		*/
 		.img-thumbnail {
 		padding: .25rem;
 		background-color: #fff;
