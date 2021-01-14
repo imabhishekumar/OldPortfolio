@@ -406,8 +406,8 @@
 
 		.cardData{
 			height: 8em;
-            border-top-left-radius: 2em !important;
-            border-top-right-radius: 2em !important;
+	        border-top-left-radius: 2em !important;
+	        border-top-right-radius: 2em !important;
 		}
 
 		h5{
@@ -451,46 +451,46 @@
 			color: #ff5700;
 		}
 		#cardHover1:hover{
-			box-shadow: 1em 1em 3em 0.5em #000;
+			box-shadow: 0em 0em 0.3em 0.1em #d01bb9;
 		}
 
 		#cardHover2:hover{
-			box-shadow: 0em 0em 3em 1em #000;
+			box-shadow: 0em 0em 0.3em 0.1em #00fefe;
 		}
 
 		#cardHover3:hover{
-			box-shadow: -1em 1em 3em 0.5em #000;
+			box-shadow: 0em 0em 0.3em 0.1em #ff5700;
 		}
 		
 		/*Team End*/
 
 
-       /*footer start*/
+	   /*footer start*/
 
-       #footer{
-       	border-top: 0.3em solid red;
-       	padding: 2em;
-       	color:#000;
-       	margin-right: 10em;
-       	margin-left: 10em;
-       }
+	   #footer{
+	   	border-top: 0.3em solid red;
+	   	padding: 2em;
+	   	color:#000;
+	   	margin-right: 10em;
+	   	margin-left: 10em;
+	   }
 
-       #name{
-       	color: #000;
-       }
+	   #name{
+	   	color: #000;
+	   }
 
-       #name:hover{
-       	color:yellow;
-       }
+	   #name:hover{
+	   	color:yellow;
+	   }
 
-       #hire{
-       	padding-bottom: 0.5em;
-       	font-size: 3em;
-       	font-weight: lighter;
-       }
+	   #hire{
+	   	padding-bottom: 0.5em;
+	   	font-size: 3em;
+	   	font-weight: lighter;
+	   }
 
 
-        /*footer end*/
+	    /*footer end*/
 
 
 		/*Responsive content*/
@@ -530,7 +530,7 @@
 			margin-left: 13em;
 			margin-top: 3em;
 		}
-	
+
 		}
 
 
@@ -566,11 +566,11 @@
 		}
 
 		#footer{
-       	margin-right: 3em;
-       	margin-left: 3em;
-       }
+	   	margin-right: 3em;
+	   	margin-left: 3em;
+	    }
 
-       #member1{
+	    #member1{
 			width: 50%;
 			margin-left: 11em;
 		}
@@ -667,11 +667,11 @@
 		}
 
 		#footer{
-       	margin-right: 0em;
-       	margin-left: 0em;
-       }
+	   	margin-right: 0em;
+	   	margin-left: 0em;
+	   }
 
-       .card-img-top{
+	   .card-img-top{
 			margin-top: 2.5em;
 			margin-left: 4em;
 		}
