@@ -62,9 +62,16 @@
 		color: #66FCF1;
 		}
 
-		h4.navbar-brand{
+		a.navbar-brand{
 		font-family: 'Redressed', cursive;
 		font-size: 3em;
+		margin-top: 0;
+        margin-bottom: 0.5rem;
+        line-height: 1.2;
+		}
+
+		a.navbar-brand:hover{
+			color: #fff;
 		}
 
 		.star1 {
