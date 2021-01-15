@@ -2,678 +2,830 @@
 
 
 
-		*,*:before,*:after {
-		box-sizing: border-box;
-		}
+			*,*:before,*:after {
+			box-sizing: border-box;
+			}
 
-		html,body{
-		overflow-x: hidden;
-		}
-
-
-		/*navbar*/
-		.navbar-light .navbar-brand {
-		color: #fff;
-		}
-
-		.navbar-light .navbar-nav .nav-link {
-		color: #fff;
-		}
-
-		ul{
-		margin-left: 
-		}
-
-		nav{
-		background-color: #000;
-		}
-
-		.navbar-toggler {
-
-		background-color: white;
-		opacity: 0.9;
-		}
+			html,body{
+			overflow-x: hidden;
+			}
 
 
-		.navbar {
-		padding-right: 8em;
-		padding-left: 6em;
-		}
+			/*navbar*/
+			.navbar-light .navbar-brand {
+			color: #fff;
+			}
 
+			.navbar-light .navbar-nav .nav-link {
+			color: #fff;
+			}
 
-		.nav-item{
-		font-size: 1.2em;
-		}
+			ul{
+			margin-left: 
+			}
 
-		a{
-		color:#fff;
-		}
-
-		.nav-link:hover{
-		color: yellow;
-		font-size: 1.3em;
-		padding-top:.1em;
-		padding-bottom: .1em;
-		padding-right: .1rem;
-		padding-left: .1rem;
-		}
-
-		.aqua{
-		color: #66FCF1;
-		}
-
-		h4.navbar-brand{
-		font-family: 'Redressed', cursive;
-		font-size: 3em;
-		}
-
-		.star1 {
-		height: 0.25em;
-		width: 0.25em;
-		background-color: #fff;
-		border-radius: 50%;
-		display: inline-block;
-		box-shadow: 0 0 0.5em 3px #fff
-		}
-
-		.star2 {
-		height: 0.2em;
-		width: 0.2em;
-		background-color: #fff;
-		border-radius: 50%;
-		display: inline-block;
-		float: left;
-		margin-left: 8em;
-		margin-top: 4em;
-		box-shadow: 0 0 0.5em 0.5px #fff
-		}
-
-		.star3 {
-		height: 0.15em;
-		width: 0.15em;
-		background-color: #fff;
-		border-radius: 50%;
-		display: inline-block;
-		box-shadow: 0 0 0.5em 1px #fff
-		}
-
-		#star1{
-		float: right;
-		margin-right: 8em;
-		margin-top: 2em;
-		}
-
-		#star2{
-		float: left;
-		margin-left: 8em;
-		margin-top: 3em;
-		}
-
-		#star3{
-		text-align: center;
-		margin-left: 2em;
-		margin-top: 1em;
-		}
-
-		#star4{
-		text-align: center;
-		margin-left: 12em;
-		margin-top: 2em;
-		}
-
-		#star5{
-		float: right;
-		margin-right: 12em;
-		margin-top: 8em;
-		}
-
-		#star6{
-		float: left;
-		margin-left: 12em;
-		margin-top: 6em;
-		}
-
-		#star7{
-		float: left;
-		margin-left: -10em;
-		margin-top: 15em;
-		}
-
-		#star8{
-		float: right;
-		margin-right: ;
-		margin-top: 9em;
-		}
-
-		/*Gradient content*/
-
-		#back {
-		background-color: #004953;
-		height: 38em;
-		margin-top: 5.7em;
-		}
-
-		div#jumbo{
-		padding-top: 10em;
-		}
-
-		div h1 {
-		font-size: 3em;
-		}
-
-		div#h4 {
-		margin-top: 7em;	
-		margin-right: 2em;
-		margin-left: 2em;
-		float: right;
-
-		}
-
-
-		h4 #headingh4{
-		font-family: 'Ubuntu', sans-serif;
-		}
-
-
-		.btn-warning {
-		color: #fff;
-		border-radius: 2em;
-		background-color: #004953;
-		border-color: #ffc107;
-		margin-top: 0.4em;
-		float: right;
-		}
-		.btn-warning:hover {
-		color: #000;
-		background-color: #ffc107;
-		border-color: #ffc720;
-		box-shadow: 0em 0em 1em 3px #fff;
-		}
-
-
-		/*About Me */
-
-		.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
-		padding-bottom: 5em;
-		}
-
-		#aboutData{
+			nav{
 			background-color: #000;
-			padding-bottom: 5em;
-		}
+			}
 
-		#about{
-		background-color: #fff;
-		color: black;
-		height: 20em;
-		}
+			.navbar-toggler {
 
-		.img-thumbnail {
-		padding: .25rem;
-		background-color: #fff;
-		border: 0px solid #dee2e6;
-		border-radius: .25rem;
-		max-width: 50%;
-		height: auto;
-		margin: 10em;
-		border-radius: 0.5rem;
-		}
-
-		img.img-thumbnail:hover{
-			box-shadow: 0em 0em 0.2em  0.2em #000;
-		}
-
-		#text{
-		color: #fff;
-		}
-
-		/*About Me Text*/
-
-		#hey{
-		font-family: 'Sacramento', cursive;
-		font-size: 5em;
-		}
-
-		#aboutMe{
-		color:#fff;
-		margin: 6em;
-		margin-top: 10em;
-		border-left: 0.3em solid red;
-		padding: 1em;
-		}
-
-		/*About Me end*/
-
-		/*Skills*/
-
-		#hey2{
-		font-family: 'Sacramento', cursive;
-		font-size: 5em;
-		}
-
-		#skill{
-		padding-top: 7em;
-		}
-
-		#skill-1{
-		color:#000;
-		margin: 6em;
-		margin-top: 4em;
-		border-top: 0.3em solid orange;
-		padding: 1em;
-		}
-
-		#skill-2{
-		background-color: #87ebd6;
-		color: black;
-		height: 20em;
-		}
-
-		#skills{
-		height: 25em;
-		width: 20em;
-		background-color: #eb879c;
-		margin-left: 13em;
-		margin-top: 3em;
-		padding: 1em;
-		font-family: 'Ubuntu', sans-serif;
-		font-size: 1.2em;
-		}
-
-		#html{ 
-		width: 85%;
-		}
-
-		#css{
-		width: 75%;
-		}
-
-		#bootstrap{
-		width:50%;
-		}
-
-		#Js{
-		width: 45%;
-		}
-
-		#Java{
-		width: 40%;
-		}
-
-		.skillText{
-		float: right;
-		}
-
-		.progress{
-		margin: 1em;
-		height:0.6em;
-		background-color: #e9ecef;
-		margin-bottom: 3em;
-		}
-
-		/*Skills end*/
-
-		/*Service start*/
-
-		#services{
-		margin-top: 15em;
-		padding-bottom: 5em;
-		}
-
-		#service{
-		background-color: #171717;
-		margin-left: 10em;
-		margin-top: 5em;
-		padding: 2em;
-		}
-
-		#hey3{
-		font-family: 'Sacramento', cursive;
-		font-size: 5em;
-		}
-
-		h5{
-		padding-bottom: 1em; 
-		font-weight: bold;
-		}
-
-		.p{
-		opacity: 0.6;
-		}
-
-		a{
-		text-decoration: none;
-		}
+			background-color: white;
+			opacity: 0.9;
+			}
 
 
-		/*Service End*/
+			.navbar {
+			padding-right: 8em;
+			padding-left: 6em;
+			}
 
-		/*Team Start*/
 
-		#team{
-			background-color: #323232;
-			padding-top: 8em;
-			padding-bottom: 8em;
-			margin-bottom: 5em;
-		}
+			.nav-item{
+			font-size: 1.2em;
+			}
 
-		#hey4{
-			font-weight: bold;
-		}
+			a{
+			color:#fff;
+			}
 
-		span:hover > h4#hey4{
-			color:#00fefe;
-		}
+			.nav-link:hover{
+			color: yellow;
+			font-size: 1.3em;
+			padding-top:.1em;
+			padding-bottom: .1em;
+			padding-right: .1rem;
+			padding-left: .1rem;
+			}
 
-		#join{
-			font-weight: lighter;
-		}
+			.aqua{
+			color: #66FCF1;
+			}
 
-		#member1{
-			padding: 1em;
-			padding-left: 4em;	
-			padding-right: 4em;
-			background-color: #323232;
-			width: 30%;
-			margin-left: 30em;
-			margin-bottom: 2em;
-			box-shadow: 0em 0em 0.3em 0.1em #000;
-		}
+			h4.navbar-brand{
+			font-family: 'Redressed', cursive;
+			font-size: 3em;
+			}
 
-		#member1:hover{
-			width: 32%;
-			margin-left: 29em;
-			margin-bottom: 3em;
-			transition: 1s;
-			box-shadow: 0em 0em 0.1em 0.1em #00fefe;
-		}
-
-		#cards{
-			margin:3em;
-		}
-
-		.card{
-			width:80%;
-			border-radius: 8%;
-			margin-bottom: 3em;
-			background-color: #323232;
-			box-shadow: 0em 0em 6em 0.5em #000;
-		}
-
-		.card-body{
-			padding-top: 8em;
-		}
-
-		.cardData{
-			height: 8em;
-	        border-top-left-radius: 2em !important;
-	        border-top-right-radius: 2em !important;
-		}
-
-		h5{
-			padding-bottom: 0em;
-		}
-
-		.p{
-			padding: 1em;
-		}
-
-		#card1{
-			background-color: #d01bb9;
-		}
-
-		#card2{
-			background-color: #00fefe;
-		}
-
-		#card3{
-			background-color: #ff5700;
-		}
-
-		.card-img-top{
+			.star1 {
+			height: 0.25em;
+			width: 0.25em;
+			background-color: #fff;
 			border-radius: 50%;
-			width: 11em;
-			height: 11em;
+			display: inline-block;
+			box-shadow: 0 0 0.5em 3px #fff
+			}
+
+			.star2 {
+			height: 0.2em;
+			width: 0.2em;
+			background-color: #fff;
+			border-radius: 50%;
+			display: inline-block;
+			float: left;
+			margin-left: 8em;
+			margin-top: 4em;
+			box-shadow: 0 0 0.5em 0.5px #fff
+			}
+
+			.star3 {
+			height: 0.15em;
+			width: 0.15em;
+			background-color: #fff;
+			border-radius: 50%;
+			display: inline-block;
+			box-shadow: 0 0 0.5em 1px #fff
+			}
+
+			#star1{
+			float: right;
+			margin-right: 8em;
+			margin-top: 2em;
+			}
+
+			#star2{
+			float: left;
+			margin-left: 8em;
 			margin-top: 3em;
-			margin-left: 5em;
-			border: 4px solid #FFF;
-		}
+			}
 
-		#emp1{
-			color: #d01bb9;
-		}
+			#star3{
+			text-align: center;
+			margin-left: 2em;
+			margin-top: 1em;
+			}
 
-		#emp2{
-			color: #00fefe;
-		}
-		
-		#emp3{
-			color: #ff5700;
-		}
-		#cardHover1:hover{
-			box-shadow: 0em 0em 0.3em 0.1em #d01bb9;
-		}
+			#star4{
+			text-align: center;
+			margin-left: 12em;
+			margin-top: 2em;
+			}
 
-		#cardHover2:hover{
-			box-shadow: 0em 0em 0.3em 0.1em #00fefe;
-		}
+			#star5{
+			float: right;
+			margin-right: 12em;
+			margin-top: 8em;
+			}
 
-		#cardHover3:hover{
-			box-shadow: 0em 0em 0.3em 0.1em #ff5700;
-		}
-		
-		/*Team End*/
+			#star6{
+			float: left;
+			margin-left: 12em;
+			margin-top: 6em;
+			}
+
+			#star7{
+			float: left;
+			margin-left: -10em;
+			margin-top: 15em;
+			}
+
+			#star8{
+			float: right;
+			margin-right: ;
+			margin-top: 9em;
+			}
+
+			/*Gradient content*/
+
+			#back {
+			background-color: #004953;
+			height: 38em;
+			margin-top: 5.7em;
+			}
+
+			div#jumbo{
+			padding-top: 10em;
+			}
+
+			div h1 {
+			font-size: 3em;
+			}
+
+			div#h4 {
+			margin-top: 7em;	
+			margin-right: 2em;
+			margin-left: 2em;
+			float: right;
+
+			}
 
 
-	   /*footer start*/
-
-	   #footer{
-	   	border-top: 0.3em solid red;
-	   	padding: 2em;
-	   	color:#000;
-	   	margin-right: 10em;
-	   	margin-left: 10em;
-	   }
-
-	   #name{
-	   	color: #000;
-	   }
-
-	   #name:hover{
-	   	color:yellow;
-	   }
-
-	   #hire{
-	   	padding-bottom: 0.5em;
-	   	font-size: 3em;
-	   	font-weight: lighter;
-	   }
+			h4 #headingh4{
+			font-family: 'Ubuntu', sans-serif;
+			}
 
 
-	    /*footer end*/
+			.btn-warning {
+			color: #fff;
+			border-radius: 2em;
+			background-color: #004953;
+			border-color: #ffc107;
+			margin-top: 0.4em;
+			float: right;
+			}
+			.btn-warning:hover {
+			color: #000;
+			background-color: #ffc107;
+			border-color: #ffc720;
+			box-shadow: 0em 0em 1em 3px #fff;
+			}
 
 
-		/*Responsive content*/
+			/*About Me */
 
-		@media only screen and (max-width: 992px){
-		.img-thumbnail {
-		margin-left: 5.5em;
-		margin-top: 13em;
-		}	
+			.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+			padding-bottom: 5em;
+			}
 
-		#skill-2{
-		background-color: transparent;
-		color: black;
-		height: 20em;
-		}
+			#aboutData{
+				background-color: #000;
+				padding-bottom: 5em;
+			}
 
-		#skills{;
-		margin-left: 3em;
-		margin-top: 2em;
-		}
-		
-		#service{
-		margin-left: 15em;
-		}
+			#about{
+			background-color: #fff;
+			color: black;
+			height: 20em;
+			}
 
-		#member1{
-			width: 35%;
-			margin-left: 20em;
-		}
-		#member1:hover{
-			width: 37%;
-			margin-left: 19.5em;
-		}
+			.img-thumbnail {
+			padding: .25rem;
+			background-color: #fff;
+			border: 0px solid #dee2e6;
+			border-radius: .25rem;
+			max-width: 50%;
+			height: auto;
+			margin: 10em;
+			border-radius: 0.5rem;
+			}
 
-		#cardHover3{
-			width:38.5%;
+			img.img-thumbnail:hover{
+				box-shadow: 0em 0em 0.2em  0.2em #000;
+			}
+
+			#text{
+			color: #fff;
+			}
+
+			/*About Me Text*/
+
+			#hey{
+			font-family: 'Sacramento', cursive;
+			font-size: 5em;
+			}
+
+			#aboutMe{
+			color:#fff;
+			margin: 6em;
+			margin-top: 10em;
+			border-left: 0.3em solid red;
+			padding: 1em;
+			}
+
+			/*About Me end*/
+
+			/*Skills*/
+
+			#hey2{
+			font-family: 'Sacramento', cursive;
+			font-size: 5em;
+			}
+
+			#skill{
+			padding-top: 7em;
+			}
+
+			#skill-1{
+			color:#000;
+			margin: 6em;
+			margin-top: 4em;
+			border-top: 0.3em solid orange;
+			padding: 1em;
+			}
+
+			#skill-2{
+			background-color: #87ebd6;
+			color: black;
+			height: 20em;
+			}
+
+			#skills{
+			height: 25em;
+			width: 20em;
+			background-color: #eb879c;
 			margin-left: 13em;
 			margin-top: 3em;
-		}
+			padding: 1em;
+			font-family: 'Ubuntu', sans-serif;
+			font-size: 1.2em;
+			}
 
-		}
+			#html{ 
+			width: 85%;
+			}
+
+			#css{
+			width: 75%;
+			}
+
+			#bootstrap{
+			width:50%;
+			}
+
+			#Js{
+			width: 45%;
+			}
+
+			#Java{
+			width: 40%;
+			}
+
+			.skillText{
+			float: right;
+			}
+
+			.progress{
+			margin: 1em;
+			height:0.6em;
+			background-color: #e9ecef;
+			margin-bottom: 3em;
+			}
+
+			/*Skills end*/
+
+			/*Service start*/
+
+			#services{
+			margin-top: 15em;
+			padding-bottom: 5em;
+			}
+
+			#service{
+			background-color: #171717;
+			margin-left: 10em;
+			margin-top: 5em;
+			padding: 2em;
+			}
+
+			#hey3{
+			font-family: 'Sacramento', cursive;
+			font-size: 5em;
+			}
+
+			h5{
+			padding-bottom: 1em; 
+			font-weight: bold;
+			}
+
+			.p{
+			opacity: 0.6;
+			}
+
+			a{
+			text-decoration: none;
+			}
 
 
-		@media only screen and (max-width: 768px){
-		.navbar{
-		padding-right: 1em;
-		padding-left: 5em;
-		}
+			/*Service End*/
 
-		.img-thumbnail {
-		margin-left: 10em;
-		margin-top: 9em;
-		}
-		#aboutMe{
-		margin-top: 18em;
-		}
+			/*Team Start*/
 
-		#skill{
-		padding-top: 0em;
-		}
+			#team{
+				background-color: #323232;
+				padding-top: 8em;
+				padding-bottom: 8em;
+				margin-bottom: 5em;
+			}
 
-		#skill-1{
-		padding-bottom: 0em;
-		margin-bottom: 2em;
-		}
+			#hey4{
+				font-weight: bold;
+			}
 
-		#skills{;
-		margin-left: 5em;
-		}
-		
-		#service{
-		margin-left: 10em;
-		}
+			span:hover > h4#hey4{
+				color:#00fefe;
+			}
 
-		#footer{
-	   	margin-right: 3em;
-	   	margin-left: 3em;
-	    }
+			#join{
+				font-weight: lighter;
+			}
 
-	    #member1{
-			width: 50%;
-			margin-left: 11em;
-		}
-		#member1:hover{
-			width: 52%;
-			margin-left: 10.5em;
-		}
+			#member1{
+				padding: 1em;
+				padding-left: 4em;	
+				padding-right: 4em;
+				background-color: #323232;
+				width: 30%;
+				margin-left: 30em;
+				margin-bottom: 2em;
+				box-shadow: 0em 0em 0.3em 0.1em #000;
+			}
 
-		.card{
-			width:60%;
-			margin-left: 5em;
-		}
+			#member1:hover{
+				width: 32%;
+				margin-left: 29em;
+				margin-bottom: 3em;
+				transition: 1s;
+				box-shadow: 0em 0em 0.1em 0.1em #00fefe;
+			}
 
-		#cardHover3{
-			width:60%;
-			margin-left: 5em;
-			margin-top: 0em;
-		}
+			#cards{
+				margin:3em;
+			}
 
-		}
+			.card{
+				width:80%;
+				border-radius: 8%;
+				margin-bottom: 3em;
+				background-color: #323232;
+				box-shadow: 0em 0em 6em 0.5em #000;
+			}
+
+			.card-body{
+				padding-top: 8em;
+			}
+
+			.cardData{
+				height: 8em;
+	            border-top-left-radius: 2em !important;
+	            border-top-right-radius: 2em !important;
+			}
+
+			h5{
+				padding-bottom: 0em;
+			}
+
+			.p{
+				padding: 1em;
+			}
+
+			#card1{
+				background-color: #d01bb9;
+			}
+
+			#card2{
+				background-color: #00fefe;
+			}
+
+			#card3{
+				background-color: #ff5700;
+			}
+
+			.card-img-top{
+				border-radius: 50%;
+				width: 11em;
+				height: 11em;
+				margin-top: 3em;
+				margin-left: 5em;
+				border: 4px solid #FFF;
+			}
+
+			#emp1{
+				color: #d01bb9;
+			}
+
+			#emp2{
+				color: #00fefe;
+			}
+			
+			#emp3{
+				color: #ff5700;
+			}
+			#cardHover1:hover{
+				box-shadow: 0em 0em 0.3em 0.1em #d01bb9;
+			}
+
+			#cardHover2:hover{
+				box-shadow: 0em 0em 0.3em 0.1em #00fefe;
+			}
+
+			#cardHover3:hover{
+				box-shadow: 0em 0em 0.3em 0.1em #ff5700;
+			}
+			
+			/*Team End*/
+
+			/*Contact Start*/
+
+			#contact{
+				background-color: #fff;
+				color: #000;
+				width:70%;
+				margin-left: 13em;
+				margin-bottom: 5em;
+				box-shadow: 0.5em 0.5em 1.5em 0.1em #000;
+			}
 
 
-		@media only screen and (max-width: 576px){
-		.navbar{
-		padding-right: 1em;
-		padding-left: 3em;
-		}
 
-		.first{
-		padding-top: 1em;
-		}	
+	        #details{
+	        	margin-left: -0.8em;
+	        	margin-right: -0.8em;
+	        	padding: 3em;
+	        	padding-right: 1em;
+	        	/*background-color: #3d89f7;*/
+	        }
 
-		.img-thumbnail {
-		margin-left: 7em;
-		margin-top: 10em;
-		}
+	        div#details a{
+	        	color:#000;
+	        }
 
-		#about{
-		height: 17em;
-		}
-		#aboutMe{
-		margin-top: 14em;
-		}
+	        div#email:hover a{
+	        	color:green;
+	        }
 
-		#hey2{
-		font-size: 3em;
-		}
+	        div#iconA{
+	        	margin-top: 0.5em;
+	        	margin-bottom: 1em;
+	        }
 
-		#skill{
-		padding-top: 7em;
-		}
+	        div#address{
+	        	margin-top: 1.2em;
+	        	margin-left: 0em;
+	        }
 
-		#skill-1{
-		margin: 2em;
-		}
+	        div#details hr{
+	        	color: #ff0000;
+	        	width: 5em;
+	        	height: 0.2em;
+	        	opacity: 1;
+	        }
 
-		#skill-1{
-		padding-bottom: 0em;
-		margin-bottom: 0em;
-		}
+	        div#details  i{
+	        	padding: 0.8em;
+	        	border-radius: 50%;
+	        	box-shadow: 0em 0em 0.1em #000;
+	        	margin: 1em;
+	        }
 
-		#skills{
-		margin-left: 2em;
-		width: 75%;
-		}
+	        div#details span{
+	        	font-weight: bold;
+	        }
 
-		#hey3{
-		font-size: 3em;
-		}
+	        div#address p{
+	        	float: left;
+	        }
 
-		#service{
-		margin-left: 4em;
-		width: 75%;
-		}
+	        #addressIcon:hover i{
+	        	background-color: #52a6ec;
+	        	color: #FFF;
+	        }
 
-		#member1{
-			width: 80%;
+	        #phone:hover i{
+	        	background-color: #7ad06d;
+	        	color: #FFF;
+	        }
+	        
+	        #email:hover i{
+	        	background-color: #f34a38;
+	        	color: #FFF;
+	        }
+
+	        div#icons img{
+	        	width: 2.5em;
+	        	margin: 0.8em;
+	        	margin-top: 1.2em;
+	        }
+
+	        div#icons img:hover{
+	        	margin-top: 0.5em;
+	        }
+
+	        div#contact2{
+	        	padding: 3em;
+	        }
+
+	        div#contact2 input{
+	        	background-color: #000;
+	        	color: #fff;
+	        	border: 0em;
+	        	border-bottom: 0.1em solid #fff;
+	        	border-radius: 0em;
+	        }
+
+	        .form-control:focus {
+	            box-shadow: none;
+	        }
+
+	        div.form-group{
+	        	padding: 1em;
+	        }
+
+	        div#contact2 label{
+	        	padding-bottom: 0.5em;
+	        	opacity: 0.8;
+	        }
+
+	        div#contact2 textarea{
+	        	color: #fff;
+	        	background-color: #000;
+	        	margin-top: 0.5em;
+	        }
+
+	        div#contact2 button{
+	        	border-radius: 37px;
+	            background: #ff4b5a;
+	            padding: 0.5em 1.9em 0.5em 1.9em;
+	        }
+
+	        div#contact2 button:hover{
+	        	margin-left: 0.5em;
+	        	/*box-shadow: 0em 0em 0em 0.1em #fff;        */
+	        }
+	        div#contact2{
+	        	color: #fff;
+	        	background-color: #000;
+	        	margin-left: -0.8em;
+	        	margin-right: -0.8em;
+	        }
+
+
+
+			/*Contact End*/
+
+
+	       /*footer start*/
+
+	       #footer{
+	       	border-top: 0.3em solid red;
+	       	padding: 2em;
+	       	color:#000;
+	       	margin-right: 10em;
+	       	margin-left: 10em;
+	       }
+
+	       #name{
+	       	color: #000;
+	       }
+
+	       #name:hover{
+	       	color:yellow;
+	       }
+
+	       #hire{
+	       	padding-bottom: 0.5em;
+	       	font-size: 3em;
+	       	font-weight: lighter;
+	       }
+
+
+	        /*footer end*/
+
+
+			/*Responsive content*/
+
+			@media only screen and (max-width: 992px){
+			.img-thumbnail {
+			margin-left: 5.5em;
+			margin-top: 13em;
+			}	
+
+			#skill-2{
+			background-color: transparent;
+			color: black;
+			height: 20em;
+			}
+
+			#skills{;
 			margin-left: 3em;
-		}
-		#member1:hover{
-			width: 82%;
-			margin-left: 2.7em;
-		}
+			margin-top: 2em;
+			}
+			
+			#service{
+			margin-left: 15em;
+			}
 
-		.card{
-			width:80%;
-			margin-left: -0.5em;
-		}
+			#member1{
+				width: 35%;
+				margin-left: 20em;
+			}
+			#member1:hover{
+				width: 37%;
+				margin-left: 19.5em;
+			}
 
-		#cardHover3{
-			width:80%;
-			margin-left: -0.5em;
-			margin-top: 0em;
-		}
+			#cardHover3{
+				width:38.5%;
+				margin-left: 13em;
+				margin-top: 3em;
+			}
 
-		#footer{
-	   	margin-right: 0em;
-	   	margin-left: 0em;
-	   }
+			#contact{
+				width:90%;
+				margin-left: 2em;
+			}
 
-	   .card-img-top{
-			margin-top: 2.5em;
+			div#contact2{
+				padding-bottom: 6em;
+			}
+		
+			}
+
+
+			@media only screen and (max-width: 768px){
+			.navbar{
+			padding-right: 1em;
+			padding-left: 5em;
+			}
+
+			.img-thumbnail {
+			margin-left: 10em;
+			margin-top: 9em;
+			}
+			#aboutMe{
+			margin-top: 18em;
+			}
+
+			#skill{
+			padding-top: 0em;
+			}
+
+			#skill-1{
+			padding-bottom: 0em;
+			margin-bottom: 2em;
+			}
+
+			#skills{;
+			margin-left: 5em;
+			}
+			
+			#service{
+			margin-left: 10em;
+			}
+
+			#footer{
+	       	margin-right: 3em;
+	       	margin-left: 3em;
+	       }
+
+	       #member1{
+				width: 50%;
+				margin-left: 11em;
+			}
+			#member1:hover{
+				width: 52%;
+				margin-left: 10.5em;
+			}
+
+			.card{
+				width:60%;
+				margin-left: 5em;
+			}
+
+			#cardHover3{
+				width:60%;
+				margin-left: 5em;
+				margin-top: 0em;
+			}
+
+			}
+
+
+			@media only screen and (max-width: 576px){
+			.navbar{
+			padding-right: 1em;
+			padding-left: 3em;
+			}
+
+			.first{
+			padding-top: 1em;
+			}	
+
+			.img-thumbnail {
+			margin-left: 7em;
+			margin-top: 10em;
+			}
+
+			#about{
+			height: 17em;
+			}
+			#aboutMe{
+			margin-top: 14em;
+			}
+
+			#hey2{
+			font-size: 3em;
+			}
+
+			#skill{
+			padding-top: 7em;
+			}
+
+			#skill-1{
+			margin: 2em;
+			}
+
+			#skill-1{
+			padding-bottom: 0em;
+			margin-bottom: 0em;
+			}
+
+			#skills{
+			margin-left: 2em;
+			width: 75%;
+			}
+
+			#hey3{
+			font-size: 3em;
+			}
+
+			#service{
 			margin-left: 4em;
-		}
-		}
+			width: 75%;
+			}
 
+			#member1{
+				width: 80%;
+				margin-left: 3em;
+			}
+			#member1:hover{
+				width: 82%;
+				margin-left: 2.7em;
+			}
+
+			.card{
+				width:80%;
+				margin-left: -0.5em;
+			}
+
+			#cardHover3{
+				width:80%;
+				margin-left: -0.5em;
+				margin-top: 0em;
+			}
+
+			#footer{
+	       	margin-right: 0em;
+	       	margin-left: 0em;
+	       }
+
+	       .card-img-top{
+				margin-top: 2.5em;
+				margin-left: 4em;
+			}
+
+			#contact{
+				width:85%;
+				margin-left: 2em;
+			}
+
+			}
